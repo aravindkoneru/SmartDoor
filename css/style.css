@@ -1,0 +1,141 @@
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background-color: #ecf0f1;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.centered {
+    margin: 0 auto;
+    text-align: left;
+    width: 800px;
+}
+
+.header{
+    background-color: #ecf0f1;
+    color: #34495e;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 200%;
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 2%;
+    padding-left:20%;
+    padding-right: 20%;
+    text-align: justify;
+    background-color: #ecf0f1;
+    
+} 
+
+ul:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+ul li {
+    display: inline-block;
+}
+
+/* unvisited link */
+a:link {
+    color: #34495e;
+    text-decoration: none;
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* visited link */
+a:visited {
+    color: #34495e;
+    text-decoration: none;
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* mouse over link */
+a:hover {
+    color: #95a5a6;
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+#slidy-container {
+    
+    width: 75%; 
+    overflow: hidden;
+
+}
+
+
+#slidy { margin: 0; font-size: 0; position: relative; width: 100%; }
+
+#slidy img { width: 25%; }
+
+.info{
+    padding-top: 2%;
+    text-align: center;
+    background-color: #ecf0f1;
+    color: #34495e;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 200%;
+    padding-bottom: 15%;
+    
+}
+
+.dogs{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    float: left;
+    background-color: #ecf0f1;
+    width: 50%;
+    margin-left: 3%;
+    margin-top: 2%;
+    padding-bottom: 50px;
+    margin-bottom: 3%;
+}
+
+.image{
+    margin-top: 5%;
+}
+
+.sectionTitle{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    color: #eb5b4d;
+    
+}
+
+.text{
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    text-align: justify;
+    font-size: 70%;
+    color: #2c3e50;
+    line-height: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+    
+
+
+
