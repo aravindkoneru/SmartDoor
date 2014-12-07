@@ -89,29 +89,17 @@ a:hover {
 
 #slidy img { width: 25%; }
 
-.info{
+
+.partTitle{
     padding-top: 2%;
     text-align: center;
     background-color: #ecf0f1;
     color: #34495e;
     font-family: 'Quicksand', sans-serif;
     font-size: 200%;
-    padding-bottom: 15%;
-    
+    padding-bottom: 2%;
 }
 
-.dogs{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    float: left;
-    background-color: #ecf0f1;
-    width: 50%;
-    margin-left: 3%;
-    margin-top: 2%;
-    padding-bottom: 50px;
-    margin-bottom: 3%;
-}
 
 .image{
     margin-top: 5%;
@@ -120,22 +108,93 @@ a:hover {
 .sectionTitle{
     margin-top: 5%;
     margin-bottom: 10%;
-    margin-left: 10%;
     color: #eb5b4d;
+    font-size: 150%;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
     
 }
-
-.text{
-    margin-left: 40%;
-    margin-top: 5%;
+  
+.dogs{
+    float: left;
+    background-color: #ecf0f1;
+    width: 30%;
+    height: 200%;
+    margin-left: 3%;
+    margin-top: 2%;
+    padding-bottom: 50px;
     margin-bottom: 3%;
-    text-align: justify;
-    font-size: 70%;
+}
+
+img.center {
+    padding-top: 4%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info{
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 120%;
     color: #2c3e50;
-    line-height: 50px;
+    line-height: 2;
+    text-align: justify;
+    background-color: #ecf0f1;
+}
+
+
+.firstTri{
+    padding-bottom: 3%;
+    overflow: hidden;
+    display: flex;
+}
+
+.wifi{
+    background-color: #ecf0f1;
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.wifiTitle{
+    color: #15b2bd;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-size: 150%;
+    text-align: center;
     font-family: 'Josefin Sans', sans-serif;
 }
-    
 
+.wifiImage{
+    padding-top: 15px;
+}
 
+.secure{
+    background-color: #ecf0f1;
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-right: 3%;
+}
+
+.secureImage{
+    padding-top: 20px;   
+}
+
+.secureTitle{
+    color: #27bdc2;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-size: 150%;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.
 
