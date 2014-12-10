@@ -196,5 +196,33 @@ img.center {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-.
+blockquote{
+    text-align: justify;
+    color: #17b085;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 150%;
+    
+}
+
+.testBox{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.testImage{
+    margin-left: 23%;
+}
+
+footer{
+    color: #34495e;
+    background-color: #bdc3c7;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    
+}
+
+
+
+
+
 
