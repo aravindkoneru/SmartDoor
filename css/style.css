@@ -262,6 +262,7 @@ footer{
 
 audio {
     padding-top: 2%;
+    padding-bottom: 2%;
     display: table;
     margin: 0 auto;
 }
