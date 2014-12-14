@@ -221,6 +221,57 @@ footer{
     
 }
 
+.workTitle{
+    color: #15b2bd;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 150%;
+}
+
+.workInfo{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 120%;
+    color: #2c3e50;
+    line-height: 2;
+    text-align: justify;
+}
+
+.workTitle2{
+    color: #17b085;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 150%;
+}
+
+.workTitle3{
+    color: #eb5b4d;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 150%;
+}
+
+.workTitle4{
+    color: #2980b9;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 150%;
+}
+
+audio {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.audioTitle{
+    color: #2980b9;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 150%;
+}
+
 
 
 
