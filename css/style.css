@@ -261,8 +261,9 @@ footer{
 }
 
 audio {
-  width: 300px;
-  margin: 0 auto;
+    padding-top: 2%;
+    display: table;
+    margin: 0 auto;
 }
 
 .audioTitle{
