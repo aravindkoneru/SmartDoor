@@ -214,6 +214,7 @@ blockquote{
 }
 
 footer{
+    padding-top: .2%;
     color: #34495e;
     background-color: #bdc3c7;
     font-family: 'Josefin Sans', sans-serif;
@@ -290,14 +291,10 @@ img.center{
 }
 
 .infoC{
-    margin-top: 4%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 2%;
+    margin-top: 2%;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 120%;
     color: #2c3e50;
-    line-height: 2;
     text-align: center;
     background-color: #ecf0f1;
 }
